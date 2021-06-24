@@ -782,6 +782,12 @@ http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ACC" tvg-logo="" group-title="DEPORTES", ACC
 https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ACC" tvg-logo="" group-title="DEPORTES", ACC
+https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ACC" tvg-logo="" group-title="DEPORTES", ACC
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
  
 #EXTINF:-1 tvg-name="Adventure Sports Network" tvg-logo="" group-title="DEPORTES", Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
@@ -840,27 +846,57 @@ http://164.68.124.111/sec.m3u8
 #EXTINF:-1 tvg-name="ESPN U (720p)" tvg-logo="" group-title="DEPORTES", ESPN U (720p)
 http://164.68.124.111/espnu.m3u8
  
-#EXTINF:-1 tvg-name="FC Bayern München TV (1080p)" tvg-logo="" group-title="DEPORTES", FC Bayern München TV (1080p)
-https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/master.m3u8
+#EXTINF:-1 tvg-name="Fight Box" tvg-logo="" group-title="DEPORTES", Fight Box
+http://ott-cdn.ucom.am/s86/index.m3u8
  
+#EXTINF:-1 tvg-name="Fight Network" tvg-logo="" group-title="DEPORTES", Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-name="Fight Sports" tvg-logo="" group-title="DEPORTES", Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
+
+#EXTINF:-1 tvg-name="Fite" tvg-logo="" group-title="DEPORTES", Fite
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_360/chunks.m3u8
+
 #EXTINF:-1 tvg-name="Fox Sports 1 (USA)" tvg-logo="" group-title="DEPORTES", Fox Sports 1 (USA)
 http://164.68.124.111/fs1.m3u8
  
 #EXTINF:-1 tvg-name="Fox Sports Asia (720p)" tvg-logo="" group-title="DEPORTES", Fox Sports Asia (720p)
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports Asia Thai (720p)" tvg-logo="" group-title="DEPORTES", Fox Sports Asia Thai (720p)
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
  
 #EXTINF:-1 tvg-name="Fox Sports Asia 2 (720p)" tvg-logo="" group-title="DEPORTES", Fox Sports Asia 2 (720p)
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports Asia 2 Thai (720p)" tvg-logo="" group-title="DEPORTES", Fox Sports Asia 2 Thai (720p)
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
  
 #EXTINF:-1 tvg-name="Fox Sports Asia 3 (720p)" tvg-logo="" group-title="DEPORTES", Fox Sports Asia 3 (720p)
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports Asia 3 Thai (720p)" tvg-logo="" group-title="DEPORTES", Fox Sports Asia 3 Thai (720p)
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
  
 #EXTINF:-1 tvg-name="Horizon Sports" tvg-logo="" group-title="DEPORTES", Horizon Sports
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
  
-#EXTINF:-1 tvg-name="Impact Wrestling" tvg-logo="" group-title="DEPORTES", Impact Wrestling
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
- 
+#EXTINF:-1 tvg-name="IMPACT! Wrestling" tvg-logo="" group-title="DEPORTES", IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-name="LookSport (404p)" tvg-logo="" group-title="DEPORTES", LookSport (404p)
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF:-1 tvg-name="LookSport 2 (404p)" tvg-logo="" group-title="DEPORTES", LookSport 2 (404p)
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF:-1 tvg-name="LookSport 3 (404p)" tvg-logo="" group-title="DEPORTES", LookSport 3 (404p)
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF:-1 tvg-name="LookSport + (404p)" tvg-logo="" group-title="DEPORTES", LookSport + (404p)
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
 #EXTINF:-1 tvg-name="Матч ТВ (Rusia)" tvg-logo="" group-title="DEPORTES", Матч ТВ (Rusia)
 https://95-213-224-188.livesports24.online/ooomatch.m3u8
  
@@ -968,18 +1004,36 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
  
 #EXTINF:-1 tvg-name="Tennis Channel International" tvg-logo="" group-title="DEPORTES", Tennis Channel International
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="True Sports 1" tvg-logo="" group-title="DEPORTES", True Sports 1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="True Sports 2" tvg-logo="" group-title="DEPORTES", True Sports 2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="True Sports 3" tvg-logo="" group-title="DEPORTES", True Sports 3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="True Sports 4" tvg-logo="" group-title="DEPORTES", True Sports 4
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="True Sports 5" tvg-logo="" group-title="DEPORTES", True Sports 5
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="True Sports 7" tvg-logo="" group-title="DEPORTES", True Sports 7
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
  
-#EXTINF:-1 tvg-name="U.D. Las Palmas TV (España)" tvg-logo="" group-title="DEPORTES", U.D. Las Palmas TV (España)
-https://cdn041.fractalmedia.es/stream/live/udtv/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 2 Brasil" tvg-logo="" group-title="DEPORTES", TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
  
-#EXTINF:-1 tvg-name="Viasat Sport East" tvg-logo="" group-title="DEPORTES", Viasat Sport East
-https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 3 Brasil" tvg-logo="" group-title="DEPORTES", TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
  
-#EXTINF:-1 tvg-name="Viasat Sport" tvg-logo="" group-title="DEPORTES", Viasat Sport
-https://persik.by/stream/2944/263250/10249.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 4 Brasil" tvg-logo="" group-title="DEPORTES", TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
  
-#EXTINF:-1 tvg-name="Win Sports +" tvg-logo="" group-title="DEPORTES", Win Sports +
-http://saypopular.com:25461/oscar/20gar/52853
+#EXTINF:-1 tvg-name="TNT Sports 5 Brasil" tvg-logo="" group-title="DEPORTES", TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
  
 #EXTINF:-1 tvg-name="World of Free Sports" tvg-logo="" group-title="DEPORTES", World of Free Sports 
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
