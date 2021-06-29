@@ -797,19 +797,7 @@ https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
  
 #EXTINF:-1 tvg-name="All Sports" tvg-logo="" group-title="DEPORTES", All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
- 
-#EXTINF:-1 tvg-name="Astro Supersport" tvg-logo="" group-title="DEPORTES", Astro Supersport
-http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
- 
-#EXTINF:-1 tvg-name="Astro Supersport 2" tvg-logo="" group-title="DEPORTES", Astro Supersport 2
-http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
- 
-#EXTINF:-1 tvg-name="Astro Supersport 3" tvg-logo="" group-title="DEPORTES", Astro Supersport 3
-http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
- 
-#EXTINF:-1 tvg-name="Astro Supersport 4" tvg-logo="" group-title="DEPORTES", Astro Supersport 4
-http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
- 
+
 #EXTINF:-1 tvg-name="Automoto" tvg-logo="" group-title="DEPORTES", Automoto
 https://stitcheraws.unreel.me/wse-node04.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
  
@@ -820,7 +808,7 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
  
 #EXTINF:-1 tvg-name="Claro Sports (1080p)" tvg-logo="" group-title="DEPORTES", Claro Sports (1080p)
-https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+http://209.91.213.10:8088/play/a024
  
 #EXTINF:-1 tvg-name="Cycle World" tvg-logo="" group-title="DEPORTES", Cycle World
 https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
@@ -910,8 +898,8 @@ https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
 https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
  
 #EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXocv33Q2OCiXhudERVHBOX3yL3gQl_LIrqnH06nag7GTYbmAecZ5zCPIG_wTQlnftcPo&usqp=CAU" group-title="DEPORTES", MLB Network
-http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_2/master_wired.m3u8
- 
+https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8 
+
 #EXTINF:-1 tvg-name="MLS Network" tvg-logo="https://www.pinclipart.com/picdir/middle/489-4894660_hits-single-network-mls-logo-png-clipart.png" group-title="DEPORTES", MLS Network
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
  
