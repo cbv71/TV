@@ -823,17 +823,32 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
  
 #EXTINF:-1 tvg-name="ESPN USA" tvg-logo="" group-title="DEPORTES", ESPN USA
-http://164.68.124.111/fs2.m3u8
- 
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ESPN USA" tvg-logo="" group-title="DEPORTES", ESPN USA
+http://stream2.grandma.fit/fs2.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2 USA" tvg-logo="" group-title="DEPORTES", ESPN 2 USA
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-name="ESPN 2 USA" tvg-logo="" group-title="DEPORTES", ESPN 2 USA
 http://164.68.124.111/espn2.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2 USA" tvg-logo="" group-title="DEPORTES", ESPN 2 USA
+http://stream2.grandma.fit/espn2.m3u8
  
 #EXTINF:-1 tvg-name="ESPN SEC Network" tvg-logo="" group-title="DEPORTES", ESPN SEC Network
 http://164.68.124.111/sec.m3u8
+
+#EXTINF:-1 tvg-name="ESPN SEC Network" tvg-logo="" group-title="DEPORTES", ESPN SEC Network
+http://stream2.grandma.fit/sec.m3u8
  
 #EXTINF:-1 tvg-name="ESPN U (720p)" tvg-logo="" group-title="DEPORTES", ESPN U (720p)
 http://164.68.124.111/espnu.m3u8
- 
+
+#EXTINF:-1 tvg-name="ESPN U (720p)" tvg-logo="" group-title="DEPORTES", ESPN U (720p)
+http://stream2.grandma.fit/espnu.m3u8
+
 #EXTINF:-1 tvg-name="Fight Box" tvg-logo="" group-title="DEPORTES", Fight Box
 http://ott-cdn.ucom.am/s86/index.m3u8
  
@@ -848,6 +863,9 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_360/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Fox Sports 1 (USA)" tvg-logo="" group-title="DEPORTES", Fox Sports 1 (USA)
 http://164.68.124.111/fs1.m3u8
+ 
+#EXTINF:-1 tvg-name="Fox Sports 1 (USA)" tvg-logo="" group-title="DEPORTES", Fox Sports 1 (USA)
+http://stream2.grandma.fit/fs1.m3u8
  
 #EXTINF:-1 tvg-name="Fox Sports Asia (720p)" tvg-logo="" group-title="DEPORTES", Fox Sports Asia (720p)
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
