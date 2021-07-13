@@ -554,14 +554,14 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
 
 #EXTINF:-1 tvg-name="Canal 24 Horas (España)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/logos/TVE_24h.png" group-title="ESPAÑA", Canal 24 Horas (España)
-https://rtvelivestream.akamaized.net/24h_main_dvr.m3u8
- 
+https://ztnr.rtve.es/ztnr/1694255.m3u8 
+
 #EXTINF:-1 tvg-name="Canal 24 Horas (España)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/logos/TVE_24h.png" group-title="ESPAÑA", Canal 24 Horas (España)
-https://rtvelivestream.akamaized.net/24h_main_dvr_360.m3u8
- 
+https://rtvelivestreamv3.akamaized.net/24h_main_dvr_720.m3u8? 
+
 #EXTINF:-1 tvg-name="Canal 24 Horas (España)" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/logos/TVE_24h.png" group-title="ESPAÑA", Canal 24 Horas (España)
-https://rtvelivestream.akamaized.net/24h_main_dvr_576.m3u8
- 
+https://rtvelivestreamv3.akamaized.net/24h_main_dvr_576.m3u8?
+
 #EXTINF:-1 tvg-name="El Toro TV" tvg-logo="https://eltorotv.com/wp-content/uploads/2019/11/LOGO_ETV_WEB_300PP.png" group-title="ESPAÑA", El Toro TV (España)
 https://fake-live-eltorotv.flumotion.com/playlist.m3u8
  
@@ -570,7 +570,16 @@ https://fake-live-eltorotv.flumotion.com/eltorotv/fake-live_source/chunks.m3u8
  
 #EXTINF:-1 tvg-name="La 2 (España)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRanUbwJQIlqtopAW7AtOAIAP4iMb0e32Fd1A&usqp=CAU" group-title="ESPAÑA", La 2 (España)
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
- 
+
+#EXTINF:-1 tvg-name="La 2 (España)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRanUbwJQIlqtopAW7AtOAIAP4iMb0e32Fd1A&usqp=CAU" group-title="ESPAÑA", La 2 (España)
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1 tvg-name="La 2 (España)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRanUbwJQIlqtopAW7AtOAIAP4iMb0e32Fd1A&usqp=CAU" group-title="ESPAÑA", La 2 (España)
+https://rtvelivestreamv3.akamaized.net/la2_main_dvr_1080.m3u8?
+
+#EXTINF:-1 tvg-name="La 2 (España)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRanUbwJQIlqtopAW7AtOAIAP4iMb0e32Fd1A&usqp=CAU" group-title="ESPAÑA", La 2 (España)
+https://rtvelivestreamv3.akamaized.net/la2_main_dvr_720.m3u8?
+
 #EXTINF:-1 tvg-name="MTMad 24 Horas (España)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Jnaj0KjkEEYXMiLOcbQ8AdAocvxSxKarHg&usqp=CAU" group-title="ESPAÑA", MTMad 24 Horas (España)
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
  
@@ -800,6 +809,9 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Automoto" tvg-logo="" group-title="DEPORTES", Automoto
 https://stitcheraws.unreel.me/wse-node04.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports EXtra" tvg-logo="" group-title="DEPORTES", Bein Sports EXtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
  
 #EXTINF:-1 tvg-name="Bek Sports East (720p)" tvg-logo="" group-title="DEPORTES", Bek Sports East (720p)
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
